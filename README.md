@@ -2,9 +2,8 @@
 
 ### Module 21 Neural Network and Deep Learning
 
-### Alphabet Soup Charity
+### Alphabet Soup Charity - Deep Neural Network Challenge
 
-# TensorFlow Deep Neural Network Challenge
 
 ### Overview
 
